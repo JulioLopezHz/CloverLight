@@ -1,0 +1,10 @@
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\bin\Debug\netcoreapp3.1\DTO.RaffleUC.deps.json
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\bin\Debug\netcoreapp3.1\DTO.RaffleUC.dll
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\bin\Debug\netcoreapp3.1\DTO.RaffleUC.pdb
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\obj\Debug\netcoreapp3.1\DTO.RaffleUC.csproj.AssemblyReference.cache
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\obj\Debug\netcoreapp3.1\DTO.RaffleUC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\obj\Debug\netcoreapp3.1\DTO.RaffleUC.AssemblyInfoInputs.cache
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\obj\Debug\netcoreapp3.1\DTO.RaffleUC.AssemblyInfo.cs
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\obj\Debug\netcoreapp3.1\DTO.RaffleUC.csproj.CoreCompileInputs.cache
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\obj\Debug\netcoreapp3.1\DTO.RaffleUC.dll
+C:\Repositorios\CloverLight\CloverLightSolution\DTO.RaffleUC\obj\Debug\netcoreapp3.1\DTO.RaffleUC.pdb
